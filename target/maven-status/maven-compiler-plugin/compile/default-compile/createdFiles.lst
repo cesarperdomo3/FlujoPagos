@@ -1,0 +1,4 @@
+com\mycompany\flujopagos\FlujoPagos.class
+com\mycompany\flujopagos\Reader.class
+com\mycompany\flujopagos\PaymentProcessor$TrmCalculator.class
+com\mycompany\flujopagos\PaymentProcessor.class
